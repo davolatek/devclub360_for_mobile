@@ -1,0 +1,186 @@
+{
+  "project_info": {
+    "project_number": "1063179265805",
+    "project_id": "devclub360-371df",
+    "storage_bucket": "devclub360-371df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063179265805:android:7c3e25d487b4a5c430f244",
+        "android_client_info": {
+          "package_name": "com.devclub360.rentwey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063179265805-3cjqfr60u1dod7cnspb335gq6qifl8sd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devclub360.rentwey",
+            "certificate_hash": "c8791a51e5d13de3549c19287a731cc153cf5dc7"
+          }
+        },
+        {
+          "client_id": "1063179265805-00aoffbl2dq1d2but22gg9ta8ot0vilu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXituDKpiXxkv_htq5yrlipNkZcnxfYqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063179265805-00aoffbl2dq1d2but22gg9ta8ot0vilu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063179265805-dg4766q2q9df8tumeu2hhjc10hnffhe5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.devclub360"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063179265805:android:5eebb429b27465f430f244",
+        "android_client_info": {
+          "package_name": "com.example.devclub360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063179265805-1emnasn88644id87ojk25kd0phe4q9ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.devclub360",
+            "certificate_hash": "c8791a51e5d13de3549c19287a731cc153cf5dc7"
+          }
+        },
+        {
+          "client_id": "1063179265805-00aoffbl2dq1d2but22gg9ta8ot0vilu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXituDKpiXxkv_htq5yrlipNkZcnxfYqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063179265805-00aoffbl2dq1d2but22gg9ta8ot0vilu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063179265805-dg4766q2q9df8tumeu2hhjc10hnffhe5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.devclub360"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063179265805:android:38ef2de9b89518de30f244",
+        "android_client_info": {
+          "package_name": "com.example.devclub360admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063179265805-82js7vga1hi24iehagq9uao3bhra0irg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.devclub360admin",
+            "certificate_hash": "c8791a51e5d13de3549c19287a731cc153cf5dc7"
+          }
+        },
+        {
+          "client_id": "1063179265805-00aoffbl2dq1d2but22gg9ta8ot0vilu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXituDKpiXxkv_htq5yrlipNkZcnxfYqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063179265805-00aoffbl2dq1d2but22gg9ta8ot0vilu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063179265805-dg4766q2q9df8tumeu2hhjc10hnffhe5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.devclub360"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063179265805:android:ab1f2af0a3c423a930f244",
+        "android_client_info": {
+          "package_name": "com.rentwey.devclub360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063179265805-ih90rlrt4ao3m5p3kkq1sna69penndpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rentwey.devclub360",
+            "certificate_hash": "c8791a51e5d13de3549c19287a731cc153cf5dc7"
+          }
+        },
+        {
+          "client_id": "1063179265805-00aoffbl2dq1d2but22gg9ta8ot0vilu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXituDKpiXxkv_htq5yrlipNkZcnxfYqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063179265805-00aoffbl2dq1d2but22gg9ta8ot0vilu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063179265805-dg4766q2q9df8tumeu2hhjc10hnffhe5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.devclub360"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
